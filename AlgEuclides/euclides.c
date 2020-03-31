@@ -14,7 +14,7 @@ int main(){
     t1 = 1;
     
     int i = 2;
-    while(r1 > 1){        
+    while(r1 > 0){        
         aux = r1;
         q = r0 / r1; //qi
         r1 = r0 % r1; //ri
